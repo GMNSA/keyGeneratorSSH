@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>srcs/main.cpp</file>
+        <file>qml/KeyGenerator/Impl/KeyGenerator.qml</file>
+        <file>qml/KeyGenerator/Impl/qmldir</file>
+        <file>qml/KeyGenerator/qmldir</file>
+        <file>qml/KeyGeneratorModules/KeyType/Impl/KeyType.qml</file>
+        <file>qml/KeyGeneratorModules/KeyType/Impl/qmldir</file>
+        <file>qml/KeyGeneratorModules/KeyType/qmldir</file>
+        <file>qml/KeyGeneratorModules/qmldir</file>
+        <file>qml/KeyGeneratorModules/FileName/Impl/FileName.qml</file>
+        <file>qml/KeyGeneratorModules/FileName/Impl/qmldir</file>
+        <file>qml/KeyGeneratorModules/FileName/qmldir</file>
+        <file>qml/KeyGeneratorModules/PassPhrase/Impl/PassPhrase.qml</file>
+        <file>qml/KeyGeneratorModules/PassPhrase/Impl/qmldir</file>
+        <file>qml/KeyGeneratorModules/PassPhrase/qmldir</file>
+        <file>qml/KeyGeneratorModules/PassPhraseConfirm/Impl/PassPhraseConfirm.qml</file>
+        <file>qml/KeyGeneratorModules/PassPhraseConfirm/Impl/qmldir</file>
+        <file>qml/KeyGeneratorModules/PassPhraseConfirm/qmldir</file>
+    </qresource>
+</RCC>
